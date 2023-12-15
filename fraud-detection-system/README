@@ -4,22 +4,11 @@ Overview
 
 This repository contains code and resources for building a machine learning model to detect fraudulent transactions. Fraud detection is a critical problem in various industries, especially in finance, where identifying and preventing fraudulent activities is crucial to maintaining security and trust.
 
-Table of Contents
-
-[Introduction](#introduction)
-[Setup](#setup)
-[Data](#data)
-[Modeling](#modeling)
-[Evaluation](#evaluation)
-[Usage](#usage)
-[Contributing](#contributing)
-[License](#license)
-
-Introduction
+1. Introduction
 
 Fraudulent activities cost businesses and individuals millions each year. This project aims to leverage machine learning techniques to automatically identify and flag potential instances of fraud in transactions. The model is trained on historical data, learning patterns and anomalies to predict the likelihood of a transaction being fraudulent.
 
-Setup
+2. Setup
 
 Prerequisites
 
@@ -43,19 +32,19 @@ Install the required dependencies:
 pip install -r requirements.txt
 ```
 
-Data
+3. Data
 
 The dataset used for this project contains transactional information with labeled instances of fraud and non-fraud transactions. The dataset is not included in this repository due to its size but can be obtained from https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud.
 
-Modeling
+4. Modeling
 
 The `modeling.ipynb` Jupyter Notebook contains the code for data preprocessing, feature engineering, model training, and evaluation. Various machine learning algorithms such as Random Forest, Logistic Regression, and Gradient Boosting were experimented with to find the best-performing model.
 
-Evaluation
+5. Evaluation
 
 The model's performance metrics, including accuracy, precision, recall, and F1-score, are discussed in the notebook. Visualizations and insights regarding model performance and feature importance are also included.
 
-Usage
+6. Usage
 
 To train the model or make predictions, follow the steps outlined in the `modeling.ipynb` notebook. Additionally, you can use the pre-trained model by [provide instructions on loading the pre-trained model].
 
@@ -69,10 +58,8 @@ Make predictions
 predictions = model.predict(test_data)
 ```
 
-Contributing
+7. Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for improvements, bug fixes, or additional features.
 
-License
 
-This project is licensed under the [MIT License](LICENSE).
