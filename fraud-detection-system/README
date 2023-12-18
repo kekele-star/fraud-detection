@@ -44,21 +44,8 @@ The `modeling.ipynb` Jupyter Notebook contains the code for data preprocessing, 
 
 The model's performance metrics, including accuracy, precision, recall, and F1-score, are discussed in the notebook. Visualizations and insights regarding model performance and feature importance are also included.
 
-6. Usage
 
-To train the model or make predictions, follow the steps outlined in the `modeling.ipynb` notebook. Additionally, you can use the pre-trained model by [provide instructions on loading the pre-trained model].
-
-Example usage:
-
-```python
-Load the pre-trained model
-model = load_model('pretrained_model.pkl')
-
-Make predictions
-predictions = model.predict(test_data)
-```
-
-7. Contributing
+6. Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for improvements, bug fixes, or additional features.
 
