@@ -23,11 +23,3 @@ To deploy the Fraud Detection App, follow these steps:
 6. **Testing**: Conduct thorough testing of the application to validate its performance and ensure reliable detection of fraudulent activities.
 7. **Deployment**: Once testing is complete, deploy the app into production environment and commence real-time monitoring for fraud detection.
 
-### Support and Documentation
-For assistance with installation, configuration, or any technical issues, refer to the documentation included with the app. Additionally, you can contact our support team for further assistance or inquiries.
-
-### License
-The Fraud Detection App is licensed under [insert license type]. Please refer to the license file included with the application for details regarding the terms and conditions of use.
-
-### Disclaimer
-While the Fraud Detection App employs advanced techniques and algorithms to detect fraudulent activities, it is not foolproof and may not catch all instances of fraud. Users are advised to supplement the app with other security measures and practices to enhance fraud prevention efforts. The developers of the app are not liable for any losses or damages resulting from fraudulent activities that may occur despite the use of the app.
