@@ -26,7 +26,10 @@ The **Fraud Detection App** is a powerful application designed to detect and pre
 By leveraging **advanced algorithms** and **machine learning techniques**, the application performs **real-time monitoring** and **pattern analysis** to identify suspicious behaviors, enabling timely intervention and reducing potential risks and losses.
 
 <div align="center">
-<img src="https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/fraud-ring-detection-using-Neo4j-and-graphs-arch-diagram.2d0d6f9f4e4b2901b1325b8b0a6c334ab3d7a6f4.png" alt="Fraud Detection Architecture" width="800">
+<a name="fraud-architecture"></a>
+
+![Fraud Ring Detection Using Neo4j and Graphs](https://docs.aws.amazon.com/architecture-diagrams/latest/fraud-ring-detection-using-Neo4j-and-graphs/fraud-ring-detection-using-Neo4j-and-graphs.html)
+
 
 </div>
 
